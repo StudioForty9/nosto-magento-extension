@@ -16,4 +16,4 @@ app/etc/modules/Nosto_Tagging.xml                                           app/
 js/iframeHandler.min.js                                                     js/iframeHandler.min.js
 js/iframeresizer.min.js                                                     js/iframeresizer.min.js
 js/src/iframeHandler.js                                                     js/src/iframeHandler.js
-app/code/community/Nosto/                                                   app/code/community/Nosto/
+app/code/community/Nosto/Tagging/                                           app/code/community/Nosto/Tagging/
